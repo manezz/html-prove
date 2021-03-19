@@ -1,0 +1,26 @@
+body {
+	background-color: lightblue;
+	padding: 30px;
+}
+h1 {
+	color: darkblue;
+}
+.del {
+	font-weight:bold;
+	color: blue;
+}
+#name {
+	width: 200px;
+}
+#email {
+	width: 300px;
+}
+#phone {
+	width: 170px;
+}
+#description {
+	width: 500px;
+}
+#submit {
+	width: 100px;
+}
